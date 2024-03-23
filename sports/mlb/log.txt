@@ -53,3 +53,50 @@ INFO:root:Published event: Joey Votto homers on first pitch in first spring trai
 https://www.foxsports.com/stories/mlb/joey-votto-homers-on-first-pitch-in-first-spring-training-game-with-hometown-toronto-blue-jays
 https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/blue-jays.jpg
 None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Published event: Longtime Baltimore Orioles owner Peter Angelos dies at 94
+https://www.foxsports.com/stories/mlb/longtime-baltimore-orioles-owner-peter-angelos-dies-at-94
+https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/Angelos-2.jpg
+None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.

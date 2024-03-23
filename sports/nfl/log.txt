@@ -48,3 +48,43 @@ INFO:websocket:Websocket connected
 INFO:websocket:Websocket connected
 INFO:websocket:Websocket connected
 INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.

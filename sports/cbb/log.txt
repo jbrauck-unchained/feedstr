@@ -65,3 +65,71 @@ INFO:root:Published event: 2024 College Basketball title odds: UConn favored; Ho
 https://www.foxsports.com/stories/college-basketball/college-basketball-odds-2023-24-early-championship-lines
 https://statics.foxsports.com/www.foxsports.com/content/uploads/2022/03/13c09148-03.13.22_Mens-CBB-Title-odds-for-every-team-in-the-tournament_16x9.jpg
 None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Published event: March Madness Round of 32 analysis: Caleb Love, Arizona first to punch Sweet 16 ticket
+https://www.foxsports.com/stories/college-basketball/march-madness-round-of-32-analysis
+https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/2024-03-23_NCAA-Mens-Basketball-Tournament-Analysis_Round-of-32_16x9.jpg
+None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Published event: March Madness Round of 32 analysis: Zags pull away from Kansas, advance to Sweet 16
+https://www.foxsports.com/stories/college-basketball/march-madness-round-of-32-analysis
+https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/2024-03-23_NCAA-Mens-Basketball-Tournament-Analysis_Round-of-32_16x9.jpg
+None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Published event: 2024 March Madness live updates, score: Gonzaga, Arizona win, UNC-Michigan State live
+https://www.foxsports.com/live-blog/college-basketball/2024-march-madness-live-updates-score-day-3
+https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/2024-03-22_Top-Plays-Round-2_16x9.jpg
+None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Published event: 'It was necessary': How an early ACC Tournament exit fueled Jon Scheyer's Duke team
+https://www.foxsports.com/stories/college-basketball/it-was-necessary-how-an-early-acc-tournament-exit-fueled-jon-scheyers-duke-team
+https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/2024-03-23_Exclusive-with-Duke-Coach-Jon-Scheyer_16x9.jpg
+None
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:websocket:Websocket connected
+INFO:root:Duplicate article found. Not posting to Nostr.
